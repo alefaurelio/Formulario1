@@ -1,0 +1,14 @@
+h1, h2, h3, h4 {
+text-align: center;
+color: #F5F5DC;
+} p
+{
+text-align: justify; /* comentário em CSS: texto alinhamento justificado */
+color: #F5F5DC; /*cor de texto dos parágrafos */
+}
+body {
+background-color:#A020F0;
+color: #F5F5DC;
+font-family: Arial, Tahoma, Verdana;
+font-size: 10px;
+}
